@@ -1,9 +1,23 @@
-# part6-project3-geo-ninjas
-
+# Project GeoNinjas
 > A Vue.js project
 
-## Build Setup
+- Frontpage
+![frontpage](images/frontpage.png)
 
+- Signup page
+![signup](images/signup.png)
+
+- Map
+![map](images/map.png)
+
+- User´s chat wall
+![chat](images/userchat.png)
+
+## Access the app
+To access the hosted app [click here](https://vuejs-project-geo-ninjas.firebaseapp.com)
+
+## Build Setup
+To use the root files, follow the steps below:
 ``` bash
 # install dependencies
 npm install
@@ -14,8 +28,6 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> Project design by The Net Ninja <br>
+> Code refactoring and management by Gabriel Cavalcante
